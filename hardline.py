@@ -199,6 +199,8 @@ class App(tk.Tk):
             sv_ttk.set_theme("dark")
             use_dark_theme = True
         else:
+            # Quiet fallback: no in-app or console log
+            pass
             pending_log_msgs.append("sv_ttk not found. Running with default Tkinter theme.")
         if use_dark_theme:
             self.configure(bg="#1c1c1c")

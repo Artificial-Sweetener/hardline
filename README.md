@@ -11,7 +11,7 @@ It's a simple, portable solution to keep your workflows running smoothly while w
 Hardline is designed to be super easy to use with no external dependencies beyond standard Python libraries. The Sun Valley theme is optional and will be used if `sv-ttk` is installed.
 
 **Quick start:**
-1. Download the `hardline.exe` executable from the [releases page](LINK_TO_RELEASES_PAGE_HERE).
+1. Download the `hardline.exe` executable from the [releases page](https://github.com/Artificial-Sweetener/hardline/releases).
 2. Run it!
 
 If you prefer to run from source:

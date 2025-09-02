@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
-venv.bat
+*.bat
 
 # Distribution / packaging
 .Python
@@ -106,6 +106,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.venv-build/
 env/
 venv/
 ENV/
