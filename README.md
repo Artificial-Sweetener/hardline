@@ -2,7 +2,7 @@
 
 This is **Hardline**, a tiny Tkinter GUI application designed to help you fix your ComfyUI workflows when Set/Get nodes go rogue!
 
-The latest version of ComfyUI has unfortunately introduced a breaking change that affects the beloved Set/Get nodes from [KJNodes](https://github.com/kijai/ComfyUI-KJNodes) (see [Issue #366](https://github.com/kijai/ComfyUI-KJNodes/issues/366_)). This can leave your carefully crafted workflows in a bind. Hardline steps in to help you get back on track by rewiring those broken Set/Get connections into direct, hardcoded links.
+The latest version of ComfyUI has unfortunately introduced a breaking change that affects the beloved Set/Get nodes from [KJNodes](https://github.com/kijai/ComfyUI-KJNodes) (see [Issue #366](https://github.com/kijai/ComfyUI-KJNodes/issues/366)). This can leave your carefully crafted workflows in a bind. Hardline steps in to help you get back on track by rewiring those broken Set/Get connections into direct, hardcoded links.
 
 It's a simple, portable solution to keep your workflows running smoothly while we all hope for a patch! This way, you can keep working in the older version of ComfyUI front-end that still works with set/get nodes (1.24.4) and then use this little doo-dad to provide compatible versions for your users that are on the updated version.
 
