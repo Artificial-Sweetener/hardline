@@ -6,6 +6,9 @@ The latest version of ComfyUI has unfortunately introduced a breaking change tha
 
 It's a simple, portable solution to keep your workflows running smoothly while we all hope for a patch! This way, you can keep working in the older version of ComfyUI front-end that still works with set/get nodes (1.24.4) and then use this little doo-dad to provide compatible versions for your users that are on the updated version.
 
+<p align="center"><img width="725" height="435" alt="image" src="https://github.com/user-attachments/assets/3a749cb1-6864-4a45-88cc-6ef1a27d7974" /></p>
+
+
 ## Installation
 
 Hardline is designed to be super easy to use with no external dependencies beyond standard Python libraries. The Sun Valley theme is optional and will be used if `sv-ttk` is installed.
