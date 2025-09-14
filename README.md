@@ -1,3 +1,5 @@
+Should no longer be necessary! :]
+
 # Hardline
 
 This is **Hardline**, a tiny Tkinter GUI application designed to help you fix your ComfyUI workflows when Set/Get nodes go rogue!
